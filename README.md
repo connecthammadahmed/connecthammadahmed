@@ -25,3 +25,7 @@
 
 <h3 align="left">Support ME Via:</h3>
 <p><a href="https://www.buymeacoffee.com/connecthammadahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="connecthammadahmed" /></a><a href="https://ko-fi.com/connecthammadahmed"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="connecthammadahmed" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connecthammadahmed&show_icons=true&locale=en" alt="connecthammadahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connecthammadahmed&" alt="connecthammadahmed" /></p>
