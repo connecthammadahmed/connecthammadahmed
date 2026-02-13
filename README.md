@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/connecthammad" target="blank"><img src="https://img.shields.io/twitter/follow/connecthammad?logo=twitter&style=for-the-badge" alt="connecthammad" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 📫 How to reach me **iaamhammadahmed@gmail.com**
+- 📫 Reach ME Via **iaamhammadahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
